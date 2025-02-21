@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV - Thiago Donato Fabrizio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #007BFF;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Thiago Donato Fabrizio</h1>
+        <p>📍 Falucho 1957, Moreno, PBA - 📞 1127372071 - ✉️ fthiagito@gmail.com</p>
+        
+        <div class="section">
+            <h2>Acerca de Mí</h2>
+            <p>Soy resolutivo y responsable, con habilidades para trabajar en equipo y organizar tareas. Actualmente, estudio licenciatura en sistemas y busco ampliar mis conocimientos en áreas administrativas y de gestión empresarial.</p>
+        </div>
+        
+        <div class="section">
+            <h2>Educación</h2>
+            <p><strong>Universidad de Luján</strong> - Licenciatura en Sistemas (En curso)</p>
+            <p><strong>Instituto Parroquial San José</strong> - Bachiller en Ciencias Sociales (2016 - 2021)</p>
+        </div>
+        
+        <div class="section">
+            <h2>Conocimientos y Aptitudes</h2>
+            <ul>
+                <li>Programación</li>
+                <li>Electrónica</li>
+                <li>Redes Sociales</li>
+                <li>Paquete Office</li>
+                <li>Gestión Documental</li>
+            </ul>
+        </div>
+        
+        <div class="section">
+            <h2>Experiencia</h2>
+            <p><strong>Ventas y Atención al Cliente - Maxiquiosco Libertador</strong> (Dic 2023 - Mar 2024)</p>
+            <p><strong>Servicio técnico en Ensamblaje y Mantenimiento de Computadoras</strong> (Mar 2022 - Actualidad)</p>
+        </div>
+    </div>
+</body>
+</html>
